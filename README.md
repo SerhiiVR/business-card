@@ -1,6 +1,8 @@
 # business-card
 <h1>Hi</h1>
 
-<button type="submit" onClick="https://serhiivr.github.io/business-card/main.html">Page1</button>
+<form action="https://serhiivr.github.io/business-card/main.html" method="GET">
+	<button type="submit" >Page1</button>
+</form>
 
 First business card
