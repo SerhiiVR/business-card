@@ -17,4 +17,7 @@ Knowledge resources:
 <br>
  Bash:
 <br>
-3 <a href="https://habr.com/ru/companies/ruvds/articles/325522/">https://habr.com/ru/companies/ruvds/articles/325522/</a>
+<a href="https://habr.com/ru/companies/ruvds/articles/325522/">https://habr.com/ru/companies/ruvds/articles/325522/</a>
+<br>
+Bash. Wright to file:<br>
+<a href="https://linuxize.com/post/bash-write-to-file/">https://linuxize.com/post/bash-write-to-file/</a>
