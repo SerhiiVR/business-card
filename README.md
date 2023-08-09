@@ -9,12 +9,12 @@ Knowledge resources:
 <br>
  To get familiar with Linux systems:
 <br>
-1 https://www.youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq
+1 <a href="[url](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq)">https://www.youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq</a>
 <br>
  Notes on basic Linux commands:
 <br>
-2 https://tproger.ru/translations/bash-cheatsheet/?utm_source=site&utm_medium=banner&utm_campaign=static_banners&utm_term=recommendation
+2 <a href="[url](https://tproger.ru/translations/bash-cheatsheet/?utm_source=site&utm_medium=banner&utm_campaign=static_banners&utm_term=recommendation)">https://tproger.ru/translations/bash-cheatsheet/?utm_source=site&utm_medium=banner&utm_campaign=static_banners&utm_term=recommendation</a>
 <br>
  Bash:
 <br>
-3 https://habr.com/ru/companies/ruvds/articles/325522/
+3 <a href="https://habr.com/ru/companies/ruvds/articles/325522/">https://habr.com/ru/companies/ruvds/articles/325522/</a>
