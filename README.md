@@ -8,3 +8,5 @@
 Knowledge resources:
 
 1) https://www.youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq
+
+2) https://tproger.ru/translations/bash-cheatsheet/?utm_source=site&utm_medium=banner&utm_campaign=static_banners&utm_term=recommendation
