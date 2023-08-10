@@ -22,5 +22,9 @@ Knowledge resources:
 Bash. Wright to file:<br>
 <a href="https://linuxize.com/post/bash-write-to-file/">https://linuxize.com/post/bash-write-to-file/</a>
 <br>
+Bash. BashPitfalls:
+<a href="http://mywiki.wooledge.org/BashPitfalls">http://mywiki.wooledge.org/BashPitfalls</a>
+<br>
 SQL<br>
 <a href="https://www.w3schools.com/sql/default.asp">https://www.w3schools.com/sql/default.asp</a>
+
